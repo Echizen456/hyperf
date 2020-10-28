@@ -1,6 +1,6 @@
 # Request object
 
- `Request object (Request)` is completely implemented based on the [PSR-7](https://www.php-fig.org/psr/psr-7/) standard and is implemented by [hyperf/http-message](https:  //github.com/hyperf/http-message) component provides implementation support.
+ `Request object (Request)` is completely implemented based on the [PSR-7](https://www.php-fig.org/psr/psr-7/) standard and is implemented by [hyperf/http-message](https://github.com/hyperf/http-message) component provides implementation support.
  
 > Note that [PSR-7](https://www.php-fig.org/psr/psr-7/) standard is `Request` designed `immutable mechanism`. All start with `with` return value of the method is a new object and will not modify the value of the original object
 ## Installation
